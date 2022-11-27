@@ -1,18 +1,15 @@
 # JavaScript para back-end
 
-Conteúdos das aulas da Alura 
+Conteúdos da formação JS para back-end da Alura 
 
 ## Sumário
 
 -  [Array](https://github.com/beatrizdaddea/JS-backend/tree/main/Arrays)
 -  [Objetos](https://github.com/beatrizdaddea/JS-backend/tree/main/Objetos)
 
-
-
 ## Documentação
 
 [Documentação do JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 
 ## Referência
 
