@@ -14,9 +14,9 @@ Conteúdos da formação JS para back-end da Alura
 
 ## Documentação
 
-[Documentação do JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[O que é POO?](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos)
-[Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/)
+- [Documentação do JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [O que é POO?](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos)
+- [Programação Funcional (e (clojure))](https://www.hipsters.tech/programacao-funcional-e-clojure-hipsters-158/)
 
 ## Referência
 
