@@ -8,7 +8,7 @@ Conteúdos da formação JS para back-end da Alura
 -  [Array](https://github.com/beatrizdaddea/JS-backend/tree/main/Arrays)
 -  [Logica](https://github.com/beatrizdaddea/JS-backend/tree/main/Logica)
 -  [Objetos](https://github.com/beatrizdaddea/JS-backend/tree/main/Objetos)
--  [POO]()
+-  [POO](https://github.com/beatrizdaddea/JS-backend/tree/main/POO)
 
 
 
